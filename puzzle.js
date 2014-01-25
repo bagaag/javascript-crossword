@@ -1,6 +1,6 @@
 {
-  "title": "First Puzzle",
-  "by": "W1rd.com",
+  "title": "Sample Puzzle",
+  "by": "By Line",
   "clues": [
     { "d":"A", "n":6, "x":1, "y":1, "a":"REPEATS", "c":"Shows you've seen" },
     { "d":"A", "n":7, "x":9, "y":1, "a":"NINES", "c":"Eights aren't enough" },
