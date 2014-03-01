@@ -357,6 +357,7 @@ function Crossw1rd(container_id) {
             next = self.cellBelow(active,true);
           }
           if (next.length>0) next.click();
+          return false;
         });
       }
     }
